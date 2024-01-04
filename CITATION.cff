@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+
+cff-version: 1.2.0
+title: .github
+message: >-
+  A simple fallback repository architecture for project
+  management in GitHub.
+type: software
+authors:
+  - given-names: Parvata
+    family-names: Rohin
+repository-code: 'https://github.com/parvatarohin/.github'
+abstract: >-
+  The .github is a special repository that acts as a
+  fallback for all other repository under an user or an
+  organization.
+license: MIT
+version: 1.0.0
+date-released: '2024-01-04'
